@@ -10,3 +10,5 @@ def ScoreFinder(path):
     pass
 def Union(path):
     pass
+def Intersection(path):
+    pass
