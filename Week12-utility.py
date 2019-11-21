@@ -12,3 +12,5 @@ def Union(path):
     pass
 def Intersection(path):
     pass
+def Notln(path):
+    pass
