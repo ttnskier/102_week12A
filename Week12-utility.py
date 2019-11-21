@@ -6,3 +6,5 @@ def UpdateString(path):
     pass
 def FindWordCount(path):
     pass
+def ScoreFinder(path):
+    pass
