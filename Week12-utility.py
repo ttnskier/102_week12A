@@ -8,3 +8,5 @@ def FindWordCount(path):
     pass
 def ScoreFinder(path):
     pass
+def Union(path):
+    pass
