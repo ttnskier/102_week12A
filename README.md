@@ -1,2 +1,3 @@
-# 102_week12A
-git hub week 12 part A
+# Week 12 Git Workshop
+**Author:** Tanner Elliott
+**Section:** 102 Section C
