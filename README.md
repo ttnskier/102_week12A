@@ -1,3 +1,4 @@
-# Week 12 Git Workshop
-**Author:** Tanner Elliott
-**Section:** 102 Section C
+#Incremental development
+#Tanner Elliott
+#CSCI 102 – Section C
+#Week 12 - Part B
